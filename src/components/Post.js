@@ -85,7 +85,7 @@ const Post = ({ post }) => {
           <div className={styles.postLike}>
             <button onClick={handlePostLikeClick}>
               <img
-                src="https://img.icons8.com/?size=512&id=24816&format=png"
+                src="https://img.icons8.com/?size=512&id=DFU1kReSUccu&format=png"
                 alt="likes-icon"
               />
             </button>
@@ -94,7 +94,7 @@ const Post = ({ post }) => {
 
           <div className={styles.postCommentsIcon}>
             <img
-              src="https://img.icons8.com/?size=1x&id=11167&format=png"
+              src="https://img.icons8.com/?size=512&id=38863&format=png"
               alt="comments-icon"
             />
             <span>{post.comments.length}</span>
