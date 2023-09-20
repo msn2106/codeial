@@ -61,6 +61,7 @@ const Signup = () => {
     setSigningUp(false);
   };
 
+  // This way we are making this route restricted - if user is already logged in we will redirect to home page
   if (auth.user) {
     return <Redirect to="/" />;
   }
