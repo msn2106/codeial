@@ -1,5 +1,5 @@
 # Codeial
-React based Social Media website.
+React-based Social Media website.
 
 ## Sample Output
 ![image](https://github.com/msn2106/codeial/assets/56197385/d70a711b-c336-476e-9195-69d8dc50d112)
@@ -16,11 +16,12 @@ React based Social Media website.
 4. Comment a post
 5. View Friends List
 6. Add/Remove friends
+7. Search Peoples using the search bar
 
-### TODO :-
+### TODO:-
 #### A. Phase 1
-1. Like click is not getting updating realtime.
-2. Sometimes view user profile is crashing - Handle user not present
+1. Like click is not getting updated in realtime.
+2. Sometimes view user profile crashes - Handle user is not present
 3. Settings page Link is not present.
 4. Replace react-toast-notifications - with react-toastify
 #### A. Phase 2
